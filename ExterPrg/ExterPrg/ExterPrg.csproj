@@ -89,5 +89,20 @@
   <ItemGroup>
     <None Include="Resources\kuzu-no-honkai.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\814077782069346324.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64f76242327107.57c8d45932919.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k6skzsmtzm211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front Cover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mia.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

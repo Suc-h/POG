@@ -63,6 +63,26 @@ namespace ExterPrg.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _64f76242327107_57c8d45932919 {
+            get {
+                object obj = ResourceManager.GetObject("64f76242327107.57c8d45932919", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _814077782069346324 {
+            get {
+                object obj = ResourceManager.GetObject("814077782069346324", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap anime_date_a_live {
             get {
                 object obj = ResourceManager.GetObject("anime-date-a-live", resourceCulture);
@@ -73,9 +93,39 @@ namespace ExterPrg.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Front_Cover {
+            get {
+                object obj = ResourceManager.GetObject("Front Cover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap k6skzsmtzm211 {
+            get {
+                object obj = ResourceManager.GetObject("k6skzsmtzm211", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap kuzu_no_honkai {
             get {
                 object obj = ResourceManager.GetObject("kuzu-no-honkai", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mia {
+            get {
+                object obj = ResourceManager.GetObject("mia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
