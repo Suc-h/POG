@@ -51,7 +51,6 @@
             this.Delitele.Name = "Delitele";
             this.Delitele.Size = new System.Drawing.Size(97, 212);
             this.Delitele.TabIndex = 1;
-            this.Delitele.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // button1
             // 

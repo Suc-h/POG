@@ -19,13 +19,10 @@ namespace ExterPrg
             InitializeComponent();
         }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
+            cifsoucet = 0;
+            Delitele.Items.Clear();
             n = Convert.ToInt32(numericUpDown1.Value);
             int help = n;
             while (n > 0)

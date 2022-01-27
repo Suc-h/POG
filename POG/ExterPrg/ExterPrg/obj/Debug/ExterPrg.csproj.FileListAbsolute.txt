@@ -17,3 +17,13 @@ C:\Users\klklo\Source\Repos\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.Gene
 C:\Users\klklo\Source\Repos\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.CoreCompileInputs.cache
 C:\Users\klklo\Source\Repos\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.exe
 C:\Users\klklo\Source\Repos\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.pdb
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.exe.config
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.exe
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.pdb
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.AssemblyReference.cache
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.Form1.resources
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.Properties.Resources.resources
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.GenerateResource.cache
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.CoreCompileInputs.cache
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.exe
+C:\Users\Antonín Štolfa\Source\Repos\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.pdb
