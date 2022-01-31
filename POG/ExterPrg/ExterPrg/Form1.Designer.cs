@@ -48,6 +48,7 @@
             // 
             // Delitele
             // 
+            this.Delitele.Cursor = System.Windows.Forms.Cursors.No;
             this.Delitele.FormattingEnabled = true;
             this.Delitele.Location = new System.Drawing.Point(359, 24);
             this.Delitele.Name = "Delitele";
@@ -56,7 +57,7 @@
             // 
             // button1
             // 
-            this.button1.BackgroundImage = global::ExterPrg.Properties.Resources._814077782069346324;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.button1.ForeColor = System.Drawing.SystemColors.Info;
             this.button1.Location = new System.Drawing.Point(156, 130);
@@ -66,9 +67,11 @@
             this.button1.Text = "Vypočítej";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.MouseHover += new System.EventHandler(this.button1_MouseHover);
             // 
             // button2
             // 
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Location = new System.Drawing.Point(368, 201);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
@@ -99,8 +102,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.BackgroundImage = global::ExterPrg.Properties.Resources.mia;
+            this.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(512, 295);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

@@ -102,10 +102,10 @@
     <None Include="Resources\Front Cover.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\mia.jpeg" />
+    <None Include="Resources\109368083_1170000590035013_813886250532286067_n1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\109368083_1170000590035013_813886250532286067_n1.png" />
+    <None Include="Resources\mia.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

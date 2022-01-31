@@ -50,6 +50,12 @@ namespace ExterPrg
         {
             Delitele.Items.Clear();
             numericUpDown1.ResetText();
+            numericUpDown1.Value = 0;
+        }
+
+        private void button1_MouseHover(object sender, EventArgs e)
+        {
+
         }
 
         private void Form1_Load(object sender, EventArgs e)

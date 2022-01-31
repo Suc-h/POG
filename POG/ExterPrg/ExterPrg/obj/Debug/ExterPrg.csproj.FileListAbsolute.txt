@@ -37,3 +37,13 @@ C:\Users\suchyd.05\Source\Repos\POG\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg
 C:\Users\suchyd.05\Source\Repos\POG\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.CoreCompileInputs.cache
 C:\Users\suchyd.05\Source\Repos\POG\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.exe
 C:\Users\suchyd.05\Source\Repos\POG\POG\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.pdb
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.exe.config
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.exe
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\bin\Debug\ExterPrg.pdb
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csprojAssemblyReference.cache
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.Form1.resources
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.Properties.Resources.resources
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.GenerateResource.cache
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.csproj.CoreCompileInputs.cache
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.exe
+C:\Users\suchyd.05\source\repos\POGtest\POG\ExterPrg\ExterPrg\obj\Debug\ExterPrg.pdb
